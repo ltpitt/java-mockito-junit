@@ -1,3 +1,8 @@
+![build](https://github.com/ltpitt/java-mockito-junit/workflows/build/badge.svg)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-mockito-junit)](https://github.com/ltpitt/java-mockito-junit/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+
 # Java Mockito jUnit
 > This repo contains some jUnit and Mockito tests exercises
 
