@@ -1,6 +1,8 @@
-![build](https://github.com/ltpitt/java-mockito-junit/workflows/build/badge.svg)
+[![build](https://github.com/ltpitt/java-mockito-junit/workflows/build/badge.svg)](https://github.com/ltpitt/java-mockito-junit/actions)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-mockito-junit)](https://github.com/ltpitt/java-mockito-junit/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-mockito-junit)](https://github.com/ltpitt/java-mockito-junit/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-mockito-junit?foo=bar)](https://github.com/ltpitt/java-mockito-junit/commits)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ltpitt/java-mockito-junit/blob/master/LICENSE)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 # Java Mockito jUnit
