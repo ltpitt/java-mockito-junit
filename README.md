@@ -1,4 +1,5 @@
 [![build](https://github.com/ltpitt/java-mockito-junit/workflows/build/badge.svg)](https://github.com/ltpitt/java-mockito-junit/actions)
+[![CodeQL](https://github.com/ltpitt/java-mockito-junit/workflows/CodeQL/badge.svg)](https://github.com/ltpitt/java-mockito-junit/actions?query=workflow%3ACodeQL)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-mockito-junit)](https://github.com/ltpitt/java-mockito-junit/issues)
 [![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-mockito-junit)](https://github.com/ltpitt/java-mockito-junit/commits)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-mockito-junit?foo=bar)](https://github.com/ltpitt/java-mockito-junit/commits)
